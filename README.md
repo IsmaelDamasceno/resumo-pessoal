@@ -23,7 +23,7 @@ e alguma experiência sobre certas linguagens, mesmo que não seja muita.
 
 <ul>
 <li>GML: GameMaker language</li>
-<li><img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png">html5</li>
+<li><img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width="32" height="32">html5</li>
 <li>css3</li>
 <li>java</li>
 <li>javaScript</li>
